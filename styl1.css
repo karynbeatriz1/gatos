@@ -1,0 +1,41 @@
+.meugatinho{
+    margin-left: 40px;
+}
+.imagem1{
+    height: 20px;
+    width: 34px;
+    margin-left: 41px;
+}
+@media(min-width: 700px){
+    body{background:rgb(39, 131, 201);
+    }
+    .imagem1{
+        height: 300px;
+        width: 150px;
+    }
+    img{
+        height: 320px;
+            width: 484px;
+    }
+    .meugatinho{
+        font-size: 25px;
+        margin-left: 800px;
+}
+.textos{
+    text-align: left;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 397px;
+}
+#um{
+    display: flex;
+   text-align: left;
+  
+}
+.imagem2{
+    margin-left: 1350px;
+    margin-top: 150px;
+}
+
+}
